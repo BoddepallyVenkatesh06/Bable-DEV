@@ -1,0 +1,4 @@
+src
+test
+*.log
+cjs-proxy-dev.cjs
